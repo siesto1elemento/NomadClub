@@ -1,0 +1,340 @@
+{
+  "places": [
+    {
+      "id": "portimao-pt",
+      "city": "Portimao",
+      "country": "Portugal",
+      "countryCode": "PT",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/a9d8e7d7-50c2-4314-8081-02209a178306/46a5a53df378450e.webp",
+      "monthlyCostUSD": 2045,
+      "wifiMbps": 165,
+      "weather": { "minC": 11, "maxC": 18, "condition": "Cloudy" },
+      "slug": "portimao"
+    },
+    {
+      "id": "oaxaca-mx",
+      "city": "Oaxaca de Juarez",
+      "country": "Mexico",
+      "countryCode": "MX",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/dc28d536-14de-418a-80c9-90422a0e84ea/717b18f2a76b05bc.webp",
+      "monthlyCostUSD": 2239,
+      "wifiMbps": 61,
+      "weather": { "minC": 8, "maxC": 20, "condition": "Cloudy" },
+      "slug": "oaxaca-de-juarez"
+    },
+    {
+      "id": "varna-bg",
+      "city": "Varna",
+      "country": "Bulgaria",
+      "countryCode": "BG",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/85a9c8ac-de61-4d3d-a7d0-897c19b56ea6/7bb6c22089948a04.webp",
+      "monthlyCostUSD": 1804,
+      "wifiMbps": 125,
+      "weather": { "minC": 3, "maxC": 10, "condition": "Cloudy" },
+      "slug": "varna"
+    },
+    {
+      "id": "timisoara-ro",
+      "city": "Timisoara",
+      "country": "Romania",
+      "countryCode": "RO",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/980f4e6d-ab10-4c7b-bca3-f8bd07d31e5d/b037f06c2dc318d1.webp",
+      "monthlyCostUSD": 1607,
+      "wifiMbps": 269,
+      "weather": { "minC": 0, "maxC": 6, "condition": "Cloudy" },
+      "slug": "timisoara"
+    },
+    {
+      "id": "tucson-us",
+      "city": "Tucson",
+      "country": "United States",
+      "countryCode": "US",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/fa423ed2-c12f-4306-b3fa-a1b089f04bfe/a4cc008230cc5856.webp",
+      "monthlyCostUSD": 3614,
+      "wifiMbps": 288,
+      "weather": { "minC": 6, "maxC": 25, "condition": "Cloudy" },
+      "slug": "tucson"
+    },
+    {
+      "id": "rio-br",
+      "city": "Rio de Janeiro",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/cda41455-3f11-4116-b72c-f4ebea1d8664/9be0fbade0da79ce.webp",
+      "monthlyCostUSD": 1961,
+      "wifiMbps": 234,
+      "weather": { "minC": 23, "maxC": 29, "condition": "Rainy" },
+      "slug": "rio-de-janeiro"
+    },
+    {
+      "id": "ko-samui-th",
+      "city": "Ko Samui",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/d23592ec-3180-40b1-ba26-52a2c960df65/a372f269876a54ed.webp",
+      "monthlyCostUSD": 1606,
+      "wifiMbps": 218,
+      "weather": { "minC": 24, "maxC": 25, "condition": "Rainy" },
+      "slug": "ko-samui"
+    },
+    {
+      "id": "ljubljana-si",
+      "city": "Ljubljana",
+      "country": "Slovenia",
+      "countryCode": "SI",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/ab9cf6ec-2482-47ec-a912-51d502c9e40b/af26426c3a6b6f04.webp",
+      "monthlyCostUSD": 3098,
+      "wifiMbps": 171,
+      "weather": { "minC": 2, "maxC": 5, "condition": "Rainy" },
+      "slug": "ljubljana"
+    },
+    {
+      "id": "fukuoka-jp",
+      "city": "Fukuoka",
+      "country": "Japan",
+      "countryCode": "JP",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/cfac5073-2419-4857-ac7c-f210bbbab4e5/a5c5e49c43952757.webp",
+      "monthlyCostUSD": 2161,
+      "wifiMbps": 223,
+      "weather": { "minC": 9, "maxC": 15, "condition": "Rainy" },
+      "slug": "fukuoka"
+    },
+    {
+      "id": "melbourne-au",
+      "city": "Melbourne",
+      "country": "Australia",
+      "countryCode": "AU",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/530e239e-452a-489d-a9e5-27b4e7f40e7e/c93d10fc75eb1bb6.webp",
+      "monthlyCostUSD": 3909,
+      "wifiMbps": 115,
+      "weather": { "minC": 17, "maxC": 32, "condition": "Cloudy" },
+      "slug": "melbourne"
+    },
+
+    {
+      "id": "edinburgh-gb",
+      "city": "Edinburgh",
+      "country": "Scotland",
+      "countryCode": "GB",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/b0c644be-e38e-4322-a271-a828db6c1ece/b7aa7ee48dae2a91.webp",
+      "monthlyCostUSD": 4941,
+      "wifiMbps": 215,
+      "weather": { "minC": 2, "maxC": 10, "condition": "Rainy" },
+      "slug": "edinburgh"
+    },
+
+    {
+      "id": "cape-town-za",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "countryCode": "ZA",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/a618bf4d-56f6-4a83-b9c7-7de8c1de0a6b/5c1fe216b396bec8.webp",
+      "monthlyCostUSD": 2138,
+      "wifiMbps": 73,
+      "weather": { "minC": 17, "maxC": 19, "condition": "Partly Cloudy" },
+      "slug": "cape-town"
+    },
+
+    {
+      "id": "sarajevo-ba",
+      "city": "Sarajevo",
+      "country": "Bosnia and Herzegovina",
+      "countryCode": "BA",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/27879ae1-98ba-44b9-98de-7cb1b7326304/5b824e4dad8ab9d0.webp",
+      "monthlyCostUSD": 1505,
+      "wifiMbps": 101,
+      "weather": { "minC": 3, "maxC": 12, "condition": "Cloudy" },
+      "slug": "sarajevo"
+    },
+
+    {
+      "id": "chiang-mai-th",
+      "city": "Chiang Mai",
+      "country": "Thailand",
+      "countryCode": "TH",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/46c6f380-2bff-4569-a21c-19dc52896517/679fab494938d12d.webp",
+      "monthlyCostUSD": 997,
+      "wifiMbps": 232,
+      "weather": { "minC": 21, "maxC": 28, "condition": "Cloudy" },
+      "slug": "chiang-mai"
+    },
+    {
+      "id": "nis-rs",
+      "city": "Nis",
+      "country": "Serbia",
+      "countryCode": "RS",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/bd4fc0ae-bc40-4f1d-a1d9-9a2d112bed3a/2435cd5766e7b419.webp",
+      "monthlyCostUSD": 1233,
+      "wifiMbps": 150,
+      "weather": { "minC": -2, "maxC": 5, "condition": "Cloudy" },
+      "slug": "nis"
+    },
+    {
+      "id": "jundiai-br",
+      "city": "Jundiai",
+      "country": "Brazil",
+      "countryCode": "BR",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/93aabb91-4c89-4192-aaa9-1897f7953dc1/9b18cd2504f5a85b.webp",
+      "monthlyCostUSD": 1523,
+      "wifiMbps": 235,
+      "weather": { "minC": 19, "maxC": 25, "condition": "Rainy" },
+      "slug": "jundiai"
+    },
+    {
+      "id": "nantes-fr",
+      "city": "Nantes",
+      "country": "France",
+      "countryCode": "FR",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/ba198c8e-7753-4ee5-b8f5-96be8d44b76b/74e6ad3dedc1ad0c.webp",
+      "monthlyCostUSD": 2468,
+      "wifiMbps": 338,
+      "weather": { "minC": 5, "maxC": 11, "condition": "Cloudy" },
+      "slug": "nantes"
+    },
+    {
+      "id": "kyoto-jp",
+      "city": "Kyoto",
+      "country": "Japan",
+      "countryCode": "JP",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/c093d8e1-6537-4559-815c-bc0148e884b8/bb9dfd6a1b9f032c.webp",
+      "monthlyCostUSD": 2637,
+      "wifiMbps": 228,
+      "weather": { "minC": 6, "maxC": 9, "condition": "Rainy" },
+      "slug": "kyoto"
+    },
+    {
+      "id": "seattle-us",
+      "city": "Seattle",
+      "country": "United States",
+      "countryCode": "US",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/4d8195ce-60a5-4d57-842e-3bf32420f936/304e32a87bddd1ab.webp",
+      "monthlyCostUSD": 4149,
+      "wifiMbps": 321,
+      "weather": { "minC": 5, "maxC": 12, "condition": "Rainy" },
+      "slug": "seattle"
+    },
+    {
+      "id": "bengaluru-in",
+      "city": "Bengaluru",
+      "country": "India",
+      "countryCode": "IN",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/a2b7de1e-4da8-4755-879b-499ff1110af7/47abddc4d639545d.webp",
+      "monthlyCostUSD": 1354,
+      "wifiMbps": 132,
+      "weather": { "minC": 14, "maxC": 27, "condition": "Cloudy" },
+      "slug": "bengaluru"
+    },
+    {
+      "id": "naha-jp",
+      "city": "Naha",
+      "country": "Japan",
+      "countryCode": "JP",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/4b287054-75dd-4822-9256-aadd00e6d147/4349e4ab1e7686c8.webp",
+      "monthlyCostUSD": 2083,
+      "wifiMbps": 122,
+      "weather": { "minC": 20, "maxC": 22, "condition": "Cloudy" },
+      "slug": "naha"
+    },
+    {
+      "id": "lublin-pl",
+      "city": "Lublin",
+      "country": "Poland",
+      "countryCode": "PL",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/5218e52e-7c49-41f7-9286-015b528dc8ef/1ae1d28a7b5b2b00.webp",
+      "monthlyCostUSD": 2008,
+      "wifiMbps": 259,
+      "weather": { "minC": 2, "maxC": 6, "condition": "Cloudy" },
+      "slug": "lublin"
+    },
+    {
+      "id": "alexandria-eg",
+      "city": "Alexandria",
+      "country": "Egypt",
+      "countryCode": "EG",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/1574e204-ed44-4f2c-ab6b-c58cf438f0c0/e1fd17c475b68fd8.webp",
+      "monthlyCostUSD": 1566,
+      "wifiMbps": 24,
+      "weather": { "minC": 15, "maxC": 20, "condition": "Cloudy" },
+      "slug": "alexandria"
+    },
+    {
+      "id": "groningen-nl",
+      "city": "Groningen",
+      "country": "Netherlands",
+      "countryCode": "NL",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/92bd8ce2-6a40-48d4-a480-ea44d386739f/78fecfa5a38af678.webp",
+      "monthlyCostUSD": 3477,
+      "wifiMbps": 251,
+      "weather": { "minC": 7, "maxC": 10, "condition": "Cloudy" },
+      "slug": "groningen"
+    },
+
+    {
+      "id": "athens-gr",
+      "city": "Athens",
+      "country": "Greece",
+      "countryCode": "GR",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/dfaefa45-2027-4341-8f24-ecc7d43c6181/8b209a3867a1f173.webp",
+      "monthlyCostUSD": 2015,
+      "wifiMbps": 100,
+      "weather": { "minC": 6, "maxC": 17, "condition": "Cloudy" },
+      "slug": "athens"
+    },
+    {
+      "id": "budapest-hu",
+      "city": "Budapest",
+      "country": "Hungary",
+      "countryCode": "HU",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/bcb3e4c8-5047-408a-8091-b392376f0457/fac5f282ea52b594.webp",
+      "monthlyCostUSD": 2046,
+      "wifiMbps": 257,
+      "weather": { "minC": 1, "maxC": 5, "condition": "Rainy" },
+      "slug": "budapest"
+    },
+    {
+      "id": "prague-cz",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "countryCode": "CZ",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/2f2f5893-8e23-42d1-bac7-f84fedd28e72/f1ff6a61084332c9.webp",
+      "monthlyCostUSD": 2422,
+      "wifiMbps": 141,
+      "weather": { "minC": 1, "maxC": 5, "condition": "Cloudy" },
+      "slug": "prague"
+    },
+    {
+      "id": "palermo-it",
+      "city": "Palermo",
+      "country": "Italy",
+      "countryCode": "IT",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/2a1a4403-a078-4771-9212-1a6e283b84f2/f8a0031f3ac8ecf8.webp",
+      "monthlyCostUSD": 2452,
+      "wifiMbps": 335,
+      "weather": { "minC": 11, "maxC": 20, "condition": "Cloudy" },
+      "slug": "palermo"
+    },
+    {
+      "id": "tokyo-jp",
+      "city": "Tokyo",
+      "country": "Japan",
+      "countryCode": "JP",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/aaeb8b91-2865-4b34-ab28-828685f40ead/ca8bc3b3941d0faa.webp",
+      "monthlyCostUSD": 2714,
+      "wifiMbps": 263,
+      "weather": { "minC": 5, "maxC": 12, "condition": "Cloudy" },
+      "slug": "tokyo"
+    },
+    {
+      "id": "tallinn-ee",
+      "city": "Tallinn",
+      "country": "Estonia",
+      "countryCode": "EE",
+      "image": "https://assets.nomadlio.com/cdn-cgi/image/format=auto,fit=cover,width=600,height=300/places-images/cbffdcc1-5eb1-48fb-9b6c-b2ff4ea87101/e09c3a6548e28ad1.webp",
+      "monthlyCostUSD": 2040,
+      "wifiMbps": 124,
+      "weather": { "minC": 5, "maxC": 6, "condition": "Rainy" },
+      "slug": "tallinn"
+    }
+
+  ]
+}
