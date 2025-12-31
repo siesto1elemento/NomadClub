@@ -43,7 +43,9 @@ app-example
 /android
 
 # assets
-/assets*
+/assets/databases
+/assets/fonts
+/assets/places.csv
 
 # vscode
 .vscode/
