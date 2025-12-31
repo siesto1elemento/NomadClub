@@ -1,50 +1,33 @@
-# Welcome to your Expo app 👋
+# NomadClub
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+NomadClub is a mobile app for digital nomads to discover and compare cities around the world based on cost of living, safety, and lifestyle. Instantly filter destinations by budget and country, and view beautiful city cards with key info at a glance.
 
-## Get started
+## Features
 
-1. Install dependencies
+- 🌍 Explore cities with photos, country tags, and monthly cost
+- 🔍 Powerful filters for cost of living and country
+- 🎛️ Preferences panel for quick filtering
+- 🛡️ Safety and lifestyle metrics (in modal)
+- 🎨 Modern, clean UI
 
-   ```bash
-   npm install
-   ```
+## Screenshots
 
-2. Start the app
+### Main Screen
 
-   ```bash
-   npx expo start
-   ```
+![NomadClub Main](mockup_1.png)
 
-In the output, you'll find options to open the app in a
+### Filters Panel
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+![NomadClub Filters](mockup_2.png)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## Getting Started
 
-## Get a fresh project
+1. Clone the repo
+2. Install dependencies:  
+   `npm install`
+3. Run on device/emulator:  
+   `npx expo start`
 
-When you're ready, run:
+---
 
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Made with ❤️ for digital nomads.
