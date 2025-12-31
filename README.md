@@ -16,6 +16,10 @@ NomadClub is a mobile app for digital nomads to discover and compare cities arou
 
 ![NomadClub Main](/assets/images/mockup_1.png)
 
+### Place Modal
+
+![NomadClub Place](/assets/images/mockup_3.png)
+
 ### Filters Panel
 
 ![NomadClub Filters](/assets/images/mockup_2.png)
